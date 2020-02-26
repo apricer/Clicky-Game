@@ -1,0 +1,27 @@
+.footer {
+    background: 
+    gray;
+    height: 100px;
+    position: relative;
+    color: white;
+    overflow: auto;
+  }
+  
+  .footer > .bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: gray;
+    padding: 8px;
+    font-weight: 600;
+  }
+  
+  .footer > .bottom > {
+    width: 20px;
+    position: relative;
+    top: 3px;
+    left: 2px;
+    background: gray;
+  }
+  
